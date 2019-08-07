@@ -1,0 +1,8 @@
+환경변수편집: 새로만들기-> 변수 : JAVA_HOME 값: C:\Program Files\Java\jdk1.8.0_211
+                                              환경변수편집: PATH:C:\Program Files\Java\jdk1.8.0_211\bin
+
+
+C:\Program Files\Java\jdk1.8.0_211\bin
+
+
+D드라이버 -> java SRC 로가서 javac Test.java -> java Test 명령어
