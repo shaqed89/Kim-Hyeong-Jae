@@ -12,6 +12,7 @@ public class NewFile {
 		//try again
 		형재야 보이니?
 		aaaaaaaaaa
+		
 	}
 	
 }
