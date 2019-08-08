@@ -10,6 +10,7 @@ public class NewFile {
 		// TODO Auto-generated method stub
 		System.out.println();
 		//try again
+		형재야 보이니?
 	}
 	
 }
