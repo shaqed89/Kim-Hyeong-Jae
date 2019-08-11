@@ -12,7 +12,7 @@ public class NewFile {
 		//try again
 		형재야 보이니?
 		aaaaaaaaaa
-		
+		집에서 되는지 확인중
 	}
 	
 }
